@@ -7,7 +7,7 @@ My joy is bringing designers' screen and button animations to life, embracing cr
 
 ✦ I've also worked in the photography field, and I have interests such as pets, cooking, and my favorite drink is an espresso martini.
 
-Find me on [LinkedIn](https://www.linkedin.com/in/marthasalomao/)
+ Find me on [LinkedIn](https://www.linkedin.com/in/marthasalomao/)
 
 
 <!--
