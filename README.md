@@ -3,7 +3,7 @@
 
 I've been an iOS Developer since 2021. Day-to-day, I build features, refactor code, squash bugs, and navigate through mazes of legacy code.
 
-My joy is bringing designers' screen and button animations to life, embracing creative solutions. Constant learning is crucial to me, and what captivates me most is the unpredictability - each day brings new challenges and opportunities to create something.
+Constant learning is crucial to me, and what captivates me most is the unpredictability - each day brings new challenges and opportunities to create something.
 
 ✦ I've also worked in the photography field, and I have interests such as pets, cooking, and my favorite drink is an espresso martini.
 
